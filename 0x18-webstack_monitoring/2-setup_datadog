@@ -1,0 +1,5 @@
+# Curl command
+curl -X GET "https://api.datadoghq.com/api/v1/graph/embed" \
+-H "Accept: application/json" \
+-H "DD-API-KEY: ${97d47dddeb8b186581ea52878b1d5e78}" \
+-H "DD-APPLICATION-KEY: ${74316240e3ecdff44d5bdd42426b22814fe0f32c}"
